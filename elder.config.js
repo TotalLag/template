@@ -1,6 +1,6 @@
 require('dotenv').config();
 module.exports = {
-  origin: 'https://example.com', // TODO: update this. The URL of your site's root, without a trailing slash
+  origin: process.env.NODE_ENV === 'production' ? 'https://example.com' : 'http://localhost:3000', // TODO: update this. The URL of your site's root, without a trailing slash
   lang: 'en',
   srcDir: 'src',
   distDir: 'public',
