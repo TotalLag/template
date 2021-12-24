@@ -11,7 +11,7 @@ Here is a demo of the template: [https://elderjs.pages.dev/](https://elderjs.pag
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit Elderjs/template elderjs-app
+npx degit TotalLag/elderjs-template elderjs-app
 cd elderjs-app
 ```
 
