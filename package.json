@@ -38,7 +38,7 @@
     "sirv": "^2.0.2",
     "svelte": "^3.46.4",
     "svelte-preprocess": "^4.10.3",
-    "testcafe": "^1.18.3"
+    "testcafe": "^1.18.4"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
