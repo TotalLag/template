@@ -35,7 +35,7 @@
     "glob": "^8.1.0",
     "intersection-observer": "^0.12.2",
     "polka": "^0.5.2",
-    "sirv": "^2.0.2",
+    "sirv": "^2.0.3",
     "svelte": "^3.58.0",
     "svelte-preprocess": "^4.10.7",
     "testcafe": "^1.20.1"
