@@ -18,7 +18,7 @@
   },
   "type": "commonjs",
   "engines": {
-    "node": ">= v16.20.0"
+    "node": ">= v16.20.1"
   },
   "dependencies": {
     "@elderjs/elderjs": "^1.7.5",
@@ -36,7 +36,7 @@
     "intersection-observer": "^0.12.2",
     "polka": "^0.5.2",
     "sirv": "^2.0.3",
-    "svelte": "^3.59.1",
+    "svelte": "^3.59.2",
     "svelte-preprocess": "^4.10.7",
     "testcafe": "^1.20.1"
   },
