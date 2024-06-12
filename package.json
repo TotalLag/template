@@ -31,7 +31,7 @@
     "cors": "^2.8.5",
     "del": "^6.1.1",
     "dotenv": "^16.4.5",
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.2.0",
     "glob": "^8.1.0",
     "intersection-observer": "^0.12.2",
     "polka": "^0.5.2",
