@@ -52,7 +52,7 @@
     "nodemon": "^2.0.22",
     "postcss": "^8.4.49",
     "prettier": "^2.8.8",
-    "prettier-plugin-svelte": "^2.10.1",
+    "prettier-plugin-svelte": "^3.3.3",
     "rollup": "^2.79.2"
   },
   "author": "Nick Reese",
